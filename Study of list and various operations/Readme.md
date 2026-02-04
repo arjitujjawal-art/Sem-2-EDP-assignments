@@ -1,4 +1,4 @@
-# Experiment 2: Fundamentals of Python Programming
+# Experiment 3: Fundamentals of Python Programming
 
 ## 🌟 Overview
 This repository contains my study on the foundational commands of Python. The experiment covers variable definition, user input handling, arithmetic operations, and a practical implementation of these concepts through a simple calculator project.
