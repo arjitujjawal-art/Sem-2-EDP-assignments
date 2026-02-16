@@ -1,4 +1,4 @@
-# Experiment: Conditional Statments in Python
+# Experiment 7: Conditional Statments in Python
 
 **Conditional statements** serve as the logical decision-making core of a program. They enable an application to pivot its execution path by evaluating specific criteria, executing distinct blocks of logic based on the truth value of a defined constraint.
 
